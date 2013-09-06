@@ -16,7 +16,7 @@ for i in range(T):
 
 	names = []
 	for j in range(N):
-		names.append(sys.stdin.readline().strip('\r\n'));
+		names.append(sys.stdin.readline().strip());
 
 	print 'Case #%d: %d' % (i + 1, calc(names))
 
