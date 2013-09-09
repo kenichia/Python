@@ -1,5 +1,8 @@
 import sys
 
+iibbb;
+aaaa;
+
 def calc(names):
 	count = 0
 	lastName = names[0]
